@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(248, 181, 168);
+    resize: both;
+}
+
+.headCenter{
+    text-align: center;
+}
+
+.Tableau{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.tableaufont{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.navigation{
+    resize: both;
+}
+
+.footer{
+    resize: both;
+}
+
+.font{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
